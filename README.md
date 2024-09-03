@@ -1,0 +1,1 @@
+A collection of bricks I use in a lot of my Flutter projects.
